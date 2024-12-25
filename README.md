@@ -26,15 +26,9 @@ Ensure you have Python 3 installed on your system. No additional dependencies ar
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/gitdump.git
-   cd gitdump
+   git clone https://github.com/gpericol/git_dump.git
+   cd git_dump
    ```
-
-2. Run the script:
-   ```bash
-   python git_dump.py
-   ```
-
 ---
 
 ## Usage 📖
